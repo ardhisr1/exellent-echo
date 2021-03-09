@@ -1,0 +1,23 @@
+Question 
+1. Sebutkan minimal 3 code editor yang banyak digunakan oleh programmer?
+2. Fitur apa yang ada pada Chrome untuk mendukung developer?
+3. Sebutkan 4 keunggulan dari visual code studio?
+4. Apa nama extension file HTML?
+5. Untuk memastikan program berjalan, biasanya saat awal testing apa text yang dimunculkan?
+6. Apa bedanya HTML dengan CSS dan Javascript?
+7. Sebutkan minimal 3 tag element pada HTML?
+8. Apa fungsi dari dokumentasi pada setiap bahasa programming dan tools yang ada?
+9. Apa fungsi dari HTML Comment?
+10.Apa bedanya Semantic HTML dan Non Semantic HTML?
+
+Answer
+1. Visual Studio Code, Vim, Sublime Text
+2. Memiliki Chrome DevTools dengan fitur utama : Device Mode, element, Console, Source dan Network.
+3. Fitur Run & Debug, Built in dengan Git, Banyak Ekstensi, Intelisense.
+4. Hyper Text Markup Language
+5. Hello Word
+6. HTML adalah Kerangka, CSS adalah Kulit, Javascript adalah Otak
+7. html, head, bofy, nav, div, h1, p, dll
+8. Untuk Membantu programmer lain dalam menggunakan tools tersebut.
+9. Untuk Memberi Komentar pada kode yang tidak dibaca oleh mesin.
+10. Semantic Lebih Terstruktur dengan Baik dan mudah dibaca crawler,
